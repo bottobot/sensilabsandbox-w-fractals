@@ -1,5 +1,4 @@
-I have started using this Sensilabs AR Sandbox software in my Sandbox builds as well and its very cool! Inspired by the Sandbox developed my Dr. Kreylos but rebuilt 
-from scratch in Unity. 
+I have started using this Sensilabs AR Sandbox software in my Sandbox builds as well and its very cool! Inspired by the Sandbox developed by Dr. Kreylos but rebuilt from scratch in Unity. 
 
 So I forked it to see if I could add a fractal simulation to it, again using Claude and VS Code extension Cline to do the coding. 
 It's been very interesting learning about Unity and C# in the process. I keep hitting limits of the tokens I am able to use and also as the complexity of the task increases Claude starts going
